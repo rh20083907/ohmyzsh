@@ -1,3 +1,5 @@
+官方主题样式：https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+
 <p align="center"><img src="https://ohmyzsh.s3.amazonaws.com/omz-ansi-github.png" alt="Oh My Zsh"></p>
 
 Oh My Zsh is an open source, community-driven framework for managing your [zsh](https://www.zsh.org/) configuration.
